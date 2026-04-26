@@ -51,7 +51,7 @@ function App() {
       description: "Demo crypto wallet app",
       tools: ["HTML", "CSS", "JavaScript"],
       type: "website",
-      link: 'https://www.google.com/?zx=1776259068396',
+      link: 'https://blhaq-projects.github.io/web-projects/',
     },
     {
       image: "https://res.cloudinary.com/dkvxns0mb/image/upload/q_auto/f_auto/v1776921285/2025_09_22_10_55_IMG_6758_unrdlw.jpg",
@@ -83,7 +83,7 @@ function App() {
       description: "Simple chess game with timer and difficulty",
       tools: ["HTML", "CSS", "JavaScript"],
       type: "website",
-      link: 'https://www.google.com/?zx=1776259068396',
+      link: 'https://blhaq-projects.github.io/web-projects/chess.html',
     },
     {
       image: "https://res.cloudinary.com/dkvxns0mb/image/upload/q_auto/f_auto/v1776921273/tf_boxing_l5cjkb.png",
