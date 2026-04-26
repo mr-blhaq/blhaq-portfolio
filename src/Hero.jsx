@@ -14,7 +14,7 @@ function Hero() {
         I Create <br /> <span>Visual Experience That Drives Result</span>
       </h2>
 
-      <p className='works'>Video editor . Web Developer . Digital Artist . Grapic Designer</p>
+      <p className='works'>Video editor . Web Developer . Digital Artist . Graphic Designer</p>
 
       <button className='workbtn'
         onClick={() => {
