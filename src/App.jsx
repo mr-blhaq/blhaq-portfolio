@@ -51,7 +51,7 @@ function App() {
       description: "Demo crypto wallet app",
       tools: ["HTML", "CSS", "JavaScript"],
       type: "website",
-      link: 'https://blhaq-projects.github.io/web-projects/',
+      link: 'https://blhaq-projects.github.io/web-projects/' ,
     },
     {
       image: "https://res.cloudinary.com/dkvxns0mb/image/upload/q_auto/f_auto/v1776921285/2025_09_22_10_55_IMG_6758_unrdlw.jpg",
