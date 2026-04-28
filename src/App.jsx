@@ -277,7 +277,7 @@ function App() {
 
       <div className="aboutme reveal slide-up" id='aboutme'>
         <div className="aboutimg reveal slide-left">
-          <img src="https://res.cloudinary.com/dkvxns0mb/image/upload/q_auto/f_auto/v1776921357/IMG_9784_ke2plu.jpg" alt="ME" />
+          <img src="https://res.cloudinary.com/dkvxns0mb/image/upload/q_auto/f_auto/v1777336819/blhaq_workstation_nnequc.png" alt="ME" />
         </div>
 
         <div className="about-content reveal slide-right">
